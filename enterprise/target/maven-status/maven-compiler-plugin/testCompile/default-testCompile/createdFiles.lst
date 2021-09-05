@@ -1,0 +1,5 @@
+com\gaotong\smart\mapper\Test.class
+com\gaotong\smart\mapper\ProductCategoryMapperTest.class
+com\gaotong\CodeGenerator.class
+com\gaotong\smart\service\NewsServiceTest.class
+com\gaotong\smart\mapper\OrganizationalStructureMapperTest.class

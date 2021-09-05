@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gaotong.smart.mapper.ProductInfoMapper">
+
+  <select id="getProductVo" resultType="ProductVo">
+      SELECT
+      pi.*, pc.category_name,
+      pp.dimensions,
+      pp.weight,
+      pp.loading,
+      pp.wheelbase,
+      pp.speed,
+      pp.endurance,
+      pp.mileage,
+      pp.detection_time
+      from
+      product_info AS pi
+      left JOIN
+      product_category AS pc
+      ON
+      pi.cid=pc.cid
+
+    LEFT join product_parameter pp
+      ON pi.pid=pp.pid where 1=1
+      <if test="productQuery.name!=null and productQuery.name!=''" >
+      and pi.name like CONCAT('%',#{productQuery.name},'%')
+    </if>
+    <if test="productQuery.categoryName!=null and productQuery.categoryName!=''" >
+      and pc.category_name like CONCAT('%',#{productQuery.categoryName},'%')
+    </if>
+    <if test="productQuery.function!=null and productQuery.function!=''" >
+      and pi.function like CONCAT('%',#{productQuery.function},'%')
+    </if>
+    order by create_time desc
+  </select>
+
+
+
+</mapper>

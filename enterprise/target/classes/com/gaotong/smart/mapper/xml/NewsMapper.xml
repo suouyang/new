@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gaotong.smart.mapper.NewsMapper">
+<!--    <select id="getNewsVo" resultType="News">-->
+<!--         select n.*,nc.name from news n join news_category nc on n.cid=nc.cid order by n.create_time-->
+<!--    </select>-->
+    <select id="getNewsVo" resultType="com.gaotong.smart.entity.News">
+        select n.*,nc.name
+        from news n join news_category nc
+        on n.cid = nc.cid
+        WHERE 1=1
+        <if test="newsQuery.title!=null and newsQuery.title!=''" >
+            and n.title like CONCAT('%',#{newsQuery.title},'%')
+        </if>
+        <if test="newsQuery.name!=null and newsQuery.name!=''">
+            and  nc.name like CONCAT('%',#{newsQuery.name},'%')
+        </if>
+        <if test="newsQuery.begin!=null and newsQuery.begin!=''">
+            AND date_format(#{newsQuery.begin},'%y%m%d') >= date_format(n.create_time,'%y%m%d')
+        </if>
+        <if test="newsQuery.end!=null and newsQuery.end!=''">
+            AND date_format(n.create_time,'%y%m%d') >= date_format(#{newsQuery.end},'%y%m%d')
+        </if>
+        order by create_time desc
+    </select>
+</mapper>
