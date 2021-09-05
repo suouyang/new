@@ -32,6 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -88,7 +89,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -281,6 +282,9 @@
   <component name="SpringBootOptions">
     <option name="showAdditionalConfigNotification" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration useDefault="false">C:\Users\su\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8a5b8a66-b4b6-46db-8bd3-f29d130e334c" name="Default Changelist" comment="" />
@@ -337,7 +341,7 @@
       <workItem from="1630729941975" duration="539000" />
       <workItem from="1630733295161" duration="598000" />
       <workItem from="1630749121173" duration="3046000" />
-      <workItem from="1630818322492" duration="4926000" />
+      <workItem from="1630818322492" duration="9497000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1628157959940</created>
