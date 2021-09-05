@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a5b8a66-b4b6-46db-8bd3-f29d130e334c" name="Default Changelist" comment="" />
+    <list default="true" id="8a5b8a66-b4b6-46db-8bd3-f29d130e334c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,11 +99,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\springxiangmu\smart_city" />
       <recent name="C:\springxiangmu\smart_city\enterprise\src\main\java\com\gaotong\smart" />
       <recent name="C:\springxiangmu\smart_city\infrastructure\api_gateway\src\main\java\com\gaotong\smart" />
       <recent name="C:\spring项目\smart_city\enterprise\src\main\resources\mapper" />
       <recent name="C:\spring项目\smart_city\common\service_ossnew\src\main\java\com\su\gaotong\serviceossnew\service" />
-      <recent name="C:\spring项目\smart_city\common\service_ossnew\src\main\java\com\su\gaotong\serviceossnew\controller\config" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -342,7 +344,7 @@
       <workItem from="1630733295161" duration="598000" />
       <workItem from="1630749121173" duration="3046000" />
       <workItem from="1630818322492" duration="9497000" />
-      <workItem from="1630849761604" duration="326000" />
+      <workItem from="1630849761604" duration="2196000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1628157959940</created>
@@ -421,7 +423,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630849999240</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="第3次提交">
+      <created>1630850291299</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1630850291299</updated>
+    </task>
+    <task id="LOCAL-00013" summary="第3次提交">
+      <created>1630850323820</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1630850323820</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,14 +470,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第二次提交" />
-    <MESSAGE value="第3次提交" />
     <MESSAGE value="第4次提交" />
     <MESSAGE value="第5次提交" />
     <MESSAGE value="第6次提交" />
     <MESSAGE value="第8次提交" />
     <MESSAGE value="第10次提交" />
     <MESSAGE value="第2次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第2次提交" />
+    <MESSAGE value="第3次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第3次提交" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
