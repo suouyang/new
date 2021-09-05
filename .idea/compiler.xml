@@ -9,13 +9,10 @@
         <module name="enterprise" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="smart_city" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="enterprise" options="-parameters -verbose -bootclasspath &quot;$PROJECT_DIR$/../../Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar&quot;" />
+      <module name="enterprise" options="-parameters" />
       <module name="smart_city" options="-parameters" />
     </option>
   </component>
