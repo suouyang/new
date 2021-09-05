@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="smart_city:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a5b8a66-b4b6-46db-8bd3-f29d130e334c" name="Default Changelist" comment="第10次提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1wFwqqpTvJYjL83qo7Y1Wps56yR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\springxiangmu\smart_city\enterprise\src\main\java\com\gaotong\smart" />
+      <recent name="C:\springxiangmu\smart_city\infrastructure\api_gateway\src\main\java\com\gaotong\smart" />
+      <recent name="C:\spring项目\smart_city\enterprise\src\main\resources\mapper" />
+      <recent name="C:\spring项目\smart_city\common\service_ossnew\src\main\java\com\su\gaotong\serviceossnew\service" />
+      <recent name="C:\spring项目\smart_city\common\service_ossnew\src\main\java\com\su\gaotong\serviceossnew\controller\config" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\springxiangmu\smart_city\common" />
+      <recent name="C:\springxiangmu\smart_city\service" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.gaotong.smart.mapper" />
+      <recent name="com.gaotong.smart.controller" />
+      <recent name="com.gaotong.smart.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gaotong.smart.config" />
+      <recent name="com.gaotong.smart.controller" />
+      <recent name="com.gaotong.smart.utils" />
+      <recent name="com.gaotong.smart.commonutils" />
+      <recent name="com.gaotong" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SmartApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsServiceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="enterprise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotong.smart.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaotong.smart.service" />
+      <option name="MAIN_CLASS_NAME" value="com.gaotong.smart.service.NewsServiceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCategoryMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="enterprise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotong.smart.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaotong.smart.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.gaotong.smart.mapper.ProductCategoryMapperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductInfoMapperTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="enterprise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotong.smart.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaotong.smart.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.gaotong.smart.mapper.ProductInfoMapperTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api_gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gaotong.smart.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gaotong.smart.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_oss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.su.gaotong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.su.gaotong.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssNewApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_ossnew" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gaotong.smart.serviceossnew.OssNewApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssNewApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_ossnew" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.su.gaotong.serviceossnew.OssNewApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceVodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gaotong.smart.ServiceVodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="enterprise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotong.smart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gaotong.smart.SmartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ProductInfoMapperTest.test2" />
+      <item itemvalue="JUnit.NewsServiceTest.test" />
+      <item itemvalue="JUnit.ProductCategoryMapperTest.test" />
+      <item itemvalue="Spring Boot.OssNewApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.OssApplication (1)" />
+      <item itemvalue="Spring Boot.ServiceVodApplication" />
+      <item itemvalue="Spring Boot.OssNewApplication (1)" />
+      <item itemvalue="Spring Boot.SmartApplication" />
+      <item itemvalue="Spring Boot.OssApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SmartApplication" />
+        <item itemvalue="JUnit.ProductCategoryMapperTest.test" />
+        <item itemvalue="JUnit.NewsServiceTest.test" />
+        <item itemvalue="Spring Boot.OssApplication" />
+        <item itemvalue="JUnit.ProductInfoMapperTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5b8a66-b4b6-46db-8bd3-f29d130e334c" name="Default Changelist" comment="" />
+      <created>1628067840181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628067840181</updated>
+      <workItem from="1628067841310" duration="994000" />
+      <workItem from="1628124956939" duration="105000" />
+      <workItem from="1628125084310" duration="468000" />
+      <workItem from="1628125568081" duration="24941000" />
+      <workItem from="1628215770300" duration="818000" />
+      <workItem from="1628217584188" duration="8174000" />
+      <workItem from="1628243977215" duration="331000" />
+      <workItem from="1628319557291" duration="2099000" />
+      <workItem from="1628400193172" duration="1106000" />
+      <workItem from="1628422881162" duration="4509000" />
+      <workItem from="1628473982628" duration="7826000" />
+      <workItem from="1628499791956" duration="11234000" />
+      <workItem from="1628556036778" duration="6169000" />
+      <workItem from="1628575438419" duration="10548000" />
+      <workItem from="1628641565456" duration="623000" />
+      <workItem from="1628645805535" duration="13058000" />
+      <workItem from="1628690146777" duration="1385000" />
+      <workItem from="1628728239562" duration="22296000" />
+      <workItem from="1628757544145" duration="8077000" />
+      <workItem from="1628815144434" duration="13167000" />
+      <workItem from="1628838290989" duration="7923000" />
+      <workItem from="1629017588351" duration="2229000" />
+      <workItem from="1629021863255" duration="5129000" />
+      <workItem from="1629031157807" duration="3151000" />
+      <workItem from="1629073787169" duration="12369000" />
+      <workItem from="1629093317409" duration="26844000" />
+      <workItem from="1629246580528" duration="21367000" />
+      <workItem from="1629332748877" duration="41880000" />
+      <workItem from="1629536617621" duration="624000" />
+      <workItem from="1629590980986" duration="1891000" />
+      <workItem from="1629678796380" duration="12301000" />
+      <workItem from="1629698629088" duration="11966000" />
+      <workItem from="1629765716338" duration="23226000" />
+      <workItem from="1629851029012" duration="21578000" />
+      <workItem from="1629938201751" duration="595000" />
+      <workItem from="1629945007253" duration="9770000" />
+      <workItem from="1630026475735" duration="12456000" />
+      <workItem from="1630284362699" duration="13362000" />
+      <workItem from="1630316247914" duration="2147000" />
+      <workItem from="1630328882227" duration="87000" />
+      <workItem from="1630378908465" duration="7088000" />
+      <workItem from="1630459028075" duration="21049000" />
+      <workItem from="1630542989762" duration="5695000" />
+      <workItem from="1630594221375" duration="2325000" />
+      <workItem from="1630596591756" duration="1201000" />
+      <workItem from="1630639154275" duration="7418000" />
+      <workItem from="1630729941975" duration="539000" />
+      <workItem from="1630733295161" duration="598000" />
+      <workItem from="1630749121173" duration="3046000" />
+      <workItem from="1630818322492" duration="4926000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1628157959940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628157959940</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1628171301808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628171301808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第二次提交">
+      <created>1628171314012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628171314012</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第3次提交">
+      <created>1628778458585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628778458585</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第4次提交">
+      <created>1629093441109</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629093441109</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第5次提交">
+      <created>1629963744182</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629963744182</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第5次提交">
+      <created>1629964489397</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629964489397</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第6次提交">
+      <created>1630316306865</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630316306865</updated>
+    </task>
+    <task id="LOCAL-00009" summary="第8次提交">
+      <created>1630461038604</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630461038604</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <MESSAGE value="第3次提交" />
+    <MESSAGE value="第4次提交" />
+    <MESSAGE value="第5次提交" />
+    <MESSAGE value="第6次提交" />
+    <MESSAGE value="第8次提交" />
+    <MESSAGE value="第10次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第10次提交" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/smart_city$SmartApplication.ic" NAME="SmartApplication Coverage Results" MODIFIED="1628751965771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.gaotong.smart.*</FILTER>
+    </SUITE>
+  </component>
+</project>

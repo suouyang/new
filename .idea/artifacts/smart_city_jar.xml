@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="smart_city:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/smart_city_jar</output-path>
+    <root id="archive" name="smart_city.jar">
+      <element id="module-output" name="smart_city" />
+    </root>
+  </artifact>
+</component>
