@@ -1,4 +1,5 @@
 com\gaotong\smart\service\impl\CompanyInfoServiceImpl.class
+com\gaotong\smart\controller\uploadController.class
 com\gaotong\smart\controller\ProductInfoController.class
 com\gaotong\smart\entity\ProductInfo.class
 com\gaotong\smart\mapper\CompanyInfoMapper.class
