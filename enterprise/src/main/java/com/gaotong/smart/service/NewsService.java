@@ -17,7 +17,7 @@ import org.springframework.stereotype.Service;
  * @author suouyang
  * @since 2021-08-05
  */
-@Service
+
 public interface NewsService extends IService<News> {
 
     IPage<News> getNewsVo(IPage<News> page, @Param("newsQuery") NewsQuery newsQuery);
