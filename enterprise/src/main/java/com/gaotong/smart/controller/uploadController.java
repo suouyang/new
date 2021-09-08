@@ -22,16 +22,18 @@ public class uploadController {
     private String hostPath;
     @PostMapping("file")
     public Result upload(MultipartFile file){
-        Date date = new Date();
-        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
-        String dateFormat = simpleDateFormat.format(date);
+//        Date date = new Date();
+//        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
+//        String dateFormat = simpleDateFormat.format(date);
         String originalFilename = file.getOriginalFilename();
 //        String suffixName = originalFilename.substring(0, originalFilename.lastIndexOf("."));
         String filePath = path+ "/";
-        String fileName =dateFormat + "-" +originalFilename;
-        UUID uuid = UUID.randomUUID();
-        String[] idd=uuid.toString().split("-");
-         fileName = idd[0] + fileName;
+        String fileName =originalFilename;
+
+        String uuid = UUID.randomUUID().toString().replace("-", "");
+        System.out.println(uuid);
+          uuid = uuid.substring(0, 8);
+        fileName = uuid+fileName;
         File dest = new File(filePath+fileName);
 
         if(!dest.getParentFile().exists()){

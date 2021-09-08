@@ -26,6 +26,7 @@ com\gaotong\smart\controller\NewsController.class
 com\gaotong\smart\service\impl\UserServiceImpl.class
 com\gaotong\smart\mapper\NewsCategoryMapper.class
 com\gaotong\smart\service\NewsService.class
+com\gaotong\smart\config\MyWebConfig.class
 com\gaotong\smart\controller\NewsCategoryController.class
 com\gaotong\smart\entity\vo\NewsInfo.class
 com\gaotong\smart\service\OrganizationalStructureService.class

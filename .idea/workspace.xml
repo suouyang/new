@@ -11,13 +11,13 @@
   <component name="ChangeListManager">
     <list default="true" id="8a5b8a66-b4b6-46db-8bd3-f29d130e334c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/service/NewsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/service/NewsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/config/MyWebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/config/MyWebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/controller/uploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/controller/uploadController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/enterprise/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/enterprise/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterprise/target/classes/com/gaotong/smart/service/NewsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/classes/com/gaotong/smart/service/NewsService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/enterprise/target/enterprise-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/enterprise-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/enterprise/target/enterprise-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/enterprise-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enterprise/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/enterprise/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../smart-city" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -145,7 +145,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SmartApplication">
+  <component name="RunManager" selected="JUnit.CodeGenerator.run">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -153,6 +153,22 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="enterprise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gaotong" />
+      <option name="MAIN_CLASS_NAME" value="com.gaotong.CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -184,22 +200,6 @@
       <option name="PACKAGE_NAME" value="com.gaotong.smart.mapper" />
       <option name="MAIN_CLASS_NAME" value="com.gaotong.smart.mapper.ProductCategoryMapperTest" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductInfoMapperTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="enterprise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gaotong.smart.mapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.gaotong.smart.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.gaotong.smart.mapper.ProductInfoMapperTest" />
-      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -267,7 +267,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ProductInfoMapperTest.test2" />
       <item itemvalue="JUnit.NewsServiceTest.test" />
       <item itemvalue="JUnit.ProductCategoryMapperTest.test" />
       <item itemvalue="Spring Boot.OssNewApplication" />
@@ -277,14 +276,15 @@
       <item itemvalue="Spring Boot.OssNewApplication (1)" />
       <item itemvalue="Spring Boot.SmartApplication" />
       <item itemvalue="Spring Boot.OssApplication" />
+      <item itemvalue="JUnit.CodeGenerator.run" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CodeGenerator.run" />
         <item itemvalue="Spring Boot.SmartApplication" />
         <item itemvalue="JUnit.ProductCategoryMapperTest.test" />
         <item itemvalue="JUnit.NewsServiceTest.test" />
         <item itemvalue="Spring Boot.OssApplication" />
-        <item itemvalue="JUnit.ProductInfoMapperTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +355,7 @@
       <workItem from="1630849761604" duration="2993000" />
       <workItem from="1630888167457" duration="8962000" />
       <workItem from="1630931893429" duration="1305000" />
-      <workItem from="1630977527279" duration="3138000" />
+      <workItem from="1630977527279" duration="9653000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1628157959940</created>
@@ -462,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630932379156</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="第4次提交">
+      <created>1630996319447</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1630996319447</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,14 +502,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第二次提交" />
-    <MESSAGE value="第4次提交" />
     <MESSAGE value="第5次提交" />
     <MESSAGE value="第6次提交" />
     <MESSAGE value="第8次提交" />
     <MESSAGE value="第10次提交" />
     <MESSAGE value="第2次提交" />
     <MESSAGE value="第3次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第3次提交" />
+    <MESSAGE value="第4次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第4次提交" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
