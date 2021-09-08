@@ -37,6 +37,8 @@ public class OrganizationalStructure implements Serializable {
 
     private String name;
 
+    private String title;
+
     private String content;
 
     @JsonFormat(pattern="yyyy-MM-dd HH:mm:ss",timezone="GMT+8")

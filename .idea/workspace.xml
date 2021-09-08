@@ -10,14 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a5b8a66-b4b6-46db-8bd3-f29d130e334c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/controller/JoinUsController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/config/MyWebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/config/MyWebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/controller/uploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/controller/uploadController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterprise/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterprise/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterprise/target/enterprise-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/enterprise-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterprise/target/enterprise-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/enterprise-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enterprise/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/entity/OrganizationalStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/src/main/java/com/gaotong/smart/entity/OrganizationalStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enterprise/target/test-classes/com/gaotong/CodeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/enterprise/target/test-classes/com/gaotong/CodeGenerator.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,6 +352,7 @@
       <workItem from="1630888167457" duration="8962000" />
       <workItem from="1630931893429" duration="1305000" />
       <workItem from="1630977527279" duration="9653000" />
+      <workItem from="1631069404455" duration="1945000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1628157959940</created>
@@ -469,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630996319447</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="第4次提交">
+      <created>1631069598584</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1631069598584</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
